@@ -1,0 +1,18 @@
+{
+  "name": "super-calculator",
+  "version": "1.0.0",
+  "description": "Ultimate Calculator with multiple modes",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build required'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "calculator",
+    "vercel"
+  ]
+}
